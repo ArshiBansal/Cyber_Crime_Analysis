@@ -88,5 +88,5 @@ The dataset comprises detailed incident records from 2019 to 2024, including:
 - Integrate with **real-time data streams** for live dashboards.
 - Use **machine learning** to forecast high-risk periods and sectors.
 - Expand with **geo-location analysis** for regional threat visualization.
-- 
+
 ---
